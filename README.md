@@ -4,4 +4,4 @@
 
 <img src="pic\music.PNG" style="zoom:60%;" />
 
-<img src="D:\VUE2\code-users\pic\crud.PNG" style="zoom:50%;" />
+<img src="pic\crud.PNG" style="zoom:50%;" />
