@@ -1,19 +1,7 @@
-# code-users
+# 这是个vue2练手项目
 
-## Project setup
-```
-npm install
-```
+其中包括了axios增删改查练习，与音乐播放器
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<img src="D:\VUE2\code-users\pic\music.PNG" style="zoom:60%;" />
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<img src="D:\VUE2\code-users\pic\crud.PNG" style="zoom:50%;" />
